@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yj7
 - 👀 I’m interested in All things Development
-- 🌱 I’m currently learning Django + Python
+- 💻 Current Stack - Node.js + Next.js + Apollo GraphQL + React
+- 💾 Older Stack - Django + Python
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
